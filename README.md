@@ -8,14 +8,13 @@ Remove the NuxtWelcome and start coding!
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
 
 # npm
 npm install
 
-# pnpm
-pnpm install --shamefully-hoist
+# yarn
+yarn install
+
 ```
 
 ## Development Server
@@ -23,6 +22,10 @@ pnpm install --shamefully-hoist
 Start the development server on http://localhost:3000
 
 ```bash
+# npm
 npm run dev
+
+# yarn 
+yarn dev
 ```
 
