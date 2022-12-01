@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# `Nuxt 3 + Tailwindcss + TypeScript + Pinia starter setup`
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Download, clone or fork this repo to start working on a bug free boilerplate starter pack for this configuration.
+Remove the NuxtWelcome and start coding!
 
 ## Setup
 
@@ -25,18 +26,3 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
