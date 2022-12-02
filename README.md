@@ -5,6 +5,14 @@ Remove the NuxtWelcome and start coding!
 
 ## Setup
 
+Clone the project: 
+
+```bash
+
+git clone 
+
+```
+
 Make sure to install the dependencies:
 
 ```bash
