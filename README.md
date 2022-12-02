@@ -9,7 +9,7 @@ Clone the project:
 
 ```bash
 
-git clone 
+git clone https://github.com/Cimorexave/nuxt3-starterpack.git
 
 ```
 
