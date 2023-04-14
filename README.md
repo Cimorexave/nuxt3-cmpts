@@ -5,7 +5,7 @@ Remove the NuxtWelcome and start coding!
 
 ## Setup
 
-Clone the project: 
+Simply download or clone the project: 
 
 ```bash
 
